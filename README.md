@@ -35,10 +35,10 @@ python test.py
 ## 🖼️ Prints das execuções
 
 ### Melhor Caso:
-![print-melhor-caso](img/print-melhor-caso.png)
+![print-melhor-caso](img/print-melhor-caso.PNG)
 
 ### Pior Caso:
-![print-pior-caso](img/print-pior-caso.png)
+![print-pior-caso](img/print-pior-caso.PNG)
 
 ---
 
